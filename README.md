@@ -2,6 +2,6 @@
 
 Making learning fun with C language projects for fun.
 
-#Program list
+# Program list
 * hello.c
 * ascii.c
